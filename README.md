@@ -12,11 +12,13 @@ Duration: june to july 2024
 Mentor: Sravani gouni
 
   -: Project Description :-
+  
 The Library Management System (LMS) is a comprehensive software application designed to facilitate the management of library resources including books, magazines, and DVDs. This system allows librarians
 and patrons to efficiently manage, access, and utilize library resources through a user-friendly interface. The LMS is implemented using Java programming language and incorporates a graphical user
 interface (GUI) developed with Java Swing, ensuring an interactive and intuitive user experience.
 
   -: Key Features :-
+  
 1.User Authentication:
 
  - Multiple user roles: Librarian and Patron.
